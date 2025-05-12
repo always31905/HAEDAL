@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "865915307848",
+    "firebase_url": "https://haedalandroid-456da-default-rtdb.firebaseio.com",
+    "project_id": "haedalandroid-456da",
+    "storage_bucket": "haedalandroid-456da.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865915307848:android:579035b85f7bb2df45157d",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8MCThTnXSwJX7EI6HI3t2KXRguwwyHUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
