@@ -22,7 +22,6 @@
         EditText password;
         FirebaseAuth mAuth;
         Button emailLoginButton;
-        sadsad
         TextView textview;
         @SuppressLint("MissingInflatedId")
         @Override
